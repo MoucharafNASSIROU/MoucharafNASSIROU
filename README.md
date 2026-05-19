@@ -7,15 +7,17 @@ I am an AI Engineering student at **Junia ISEN** (2024-2027), specializing in **
 
 ### 🚀 Projects Portfolio
 
-#### 📊 Data Science & Artificial Intelligence
-*   **[Audit de Biais & Éthique de l'IA](https://github.com/MoucharafNASSIROU/bias-ai-recruitment)** : Conception d’un pipeline d'analyse statistique (Régression OLS) pour quantifier les biais décisionnels des LLM. *Note: 17.5/20*.
-*   **[Diabetes Prediction Analysis](https://github.com/MoucharafNASSIROU/RProjectETsDiabetes)** : Projet de Data Science complet incluant l'imputation MICE, l'EDA et le Feature Engineering pour la modélisation prédictive médicale.
-*   **[Reinforcement Learning - Boxer Agent](https://github.com/MoucharafNASSIROU/BoxingGame_Projet)** : Entraînement d'agents autonomes en environnement 3D via l'apprentissage par renforcement (Self-Play & Reward Shaping).
-*   **[ML Pipelines & NLP Platform](https://github.com/MoucharafNASSIROU/Projet-Techno-Web)** : Implémentation de pipelines multi-tâches pour le traitement et la classification de données textuelles (Transformers & Zero-Shot).
+#### 🧠 Artificial Intelligence & Machine Learning
+*   **[Audit de Biais & Éthique de l'IA](https://github.com/MoucharafNASSIROU/bias-ai-recruitment)** : Pipeline automatisé pour détecter les biais dans les LLM (GPT-4o, Mistral). *Note: 17.5/20*.
+*   **[Reinforcement Learning - Boxer Agent](https://github.com/MoucharafNASSIROU/BoxingGame_Projet)** : Entraînement d'un agent autonome 3D via Self-Play et Reward Shaping (Unity ML-Agents).
+*   **[ML Pipelines & NLP Platform](https://github.com/MoucharafNASSIROU/Projet-Techno-Web)** : Application multi-tâches utilisant les Transformers (Hugging Face) et classification Zero-Shot.
 
-#### 🎮 Tech & Immersive Development
-*   **[Train Drift Fight (VR)](https://github.com/MoucharafNASSIROU/UnityClassProject)** : Développement de la logique réseau et de l'interface utilisateur immersive pour une expérience multijoueur (4-16 joueurs).
-*   **[Nuclear Fist (Retro FPS)](https://github.com/MoucharafNASSIROU/Projet-Techno-Web)** : Architecture des systèmes de jeu et conception d'un HUD dynamique pour un FPS 3D.
+#### 📊 Data Science & Health
+*   **[Diabetes Prediction Analysis](https://github.com/MoucharafNASSIROU/RProjectETsDiabetes)** : Modélisation prédictive avec imputation MICE et Feature Engineering avancé sous R & Python.
+
+#### 🎮 XR & Game Development
+*   **[Train Drift Fight (VR)](https://github.com/MoucharafNASSIROU/UnityClassProject)** : Jeu multijoueur en Réalité Virtuelle (4-16 joueurs). Gestion de l'UI immersive et de la logique réseau.
+*   **[Nuclear Fist (Retro FPS)](https://github.com/MoucharafNASSIROU/Projet-Techno-Web)** : Développement d'un Doom-like. Conception intégrale de l'UI/UX et du HUD dynamique.
 
 ---
 
