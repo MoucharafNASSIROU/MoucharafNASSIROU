@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Moucharaf NASSIROU 👋
+### AI Engineering Student & Data Enthusiast
 
-<!--
-**MoucharafNASSIROU/MoucharafNASSIROU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI Engineering student at **Junia ISEN** (2024-2027), specializing in **Machine Learning**, **NLP**, and **Computer Vision**. I transform complex data into responsible and sustainable technical solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+#### [Audit de Biais & Éthique de l'IA](https://github.com/MoucharafNASSIROU/votre-repo)
+*   **Context:** Master 1 R&D Project (Graded 17.5/20).
+*   **Tech:** Python, OpenAI API, Mistral API, Statsmodels, OLS Regression.
+*   **Insight:** Automated pipeline to detect and quantify biases in LLMs for HR recruitment.
+
+#### [Reinforcement Learning - Boxer Agent](https://github.com/MoucharafNASSIROU/votre-repo)
+*   **Tech:** Unity ML-Agents, PyTorch, C#.
+*   **Focus:** Autonomous agent training using Self-Play and Reward Shaping in 3D environments.
+
+#### [NLP Platform & Interface](https://github.com/MoucharafNASSIROU/votre-repo)
+*   **Tech:** Transformers (Hugging Face), DistilBERT, Zero-Shot Classification, Gradio.
+*   **Focus:** Multi-task NLP application for sentiment analysis and semantic similarity.
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- **AI Frameworks:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+- **Tools:** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/moucharaf-nassirou/](https://www.linkedin.com/in/moucharaf-nassirou/)
+- **Location:** Lille, France 📍
+
+---
+
+*“I’m looking for an AI & Data Apprenticeship starting September 2026.”*
